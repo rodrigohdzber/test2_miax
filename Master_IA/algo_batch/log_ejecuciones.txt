@@ -1,0 +1,10 @@
+
+algo_1_IBEX se ha ejecutado a las 2021-10-20 12:31:28.219224
+algo_1_DAX se ha ejecutado a las 2021-10-20 12:31:53.138826
+algo_1_EUROSTOXX se ha ejecutado a las 2021-10-20 12:32:26.936623
+algo_2_IBEX se ha ejecutado a las 2021-10-20 12:32:45.854772
+algo_2_DAX se ha ejecutado a las 2021-10-20 12:32:59.806050
+algo_2_EUROSTOXX se ha ejecutado a las 2021-10-20 12:33:20.186961
+algo_3_IBEX se ha ejecutado a las 2021-10-20 12:33:38.708428
+algo_3_DAX se ha ejecutado a las 2021-10-20 12:33:53.092906
+algo_3_EUROSTOXX se ha ejecutado a las 2021-10-20 12:34:14.145103
